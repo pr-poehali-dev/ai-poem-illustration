@@ -14,7 +14,7 @@ interface Artwork {
 const artworks: Artwork[] = [
   {
     id: 1,
-    image: 'https://cdn.poehali.dev/projects/01738267-97ba-45f3-a0b7-de53ee4785de/files/d40c3eb8-e35f-4a48-8de1-82f1d55074d7.jpg',
+    image: 'https://cdn.poehali.dev/projects/01738267-97ba-45f3-a0b7-de53ee4785de/files/62e3dd81-d838-4f9d-91f6-5d67474f3678.jpg',
     title: 'Железная дорога',
     author: 'Николай Некрасов',
     work: 'Стихотворение, 1864'
